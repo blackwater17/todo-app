@@ -1,3 +1,21 @@
+# Description & Usage
+
+This app is written in React.js with Tailwind. The app is capable of displaying the tasks in a specific .json file, changing the status of them via dragging, and adding new tasks.
+
+To use the app: 
+
+Download the repo, update the **public/input.json** file as desired (by default there are some tasks already). 
+
+Then run:
+
+```bash
+npm install
+```
+and then finally: 
+```bash
+npm start
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
